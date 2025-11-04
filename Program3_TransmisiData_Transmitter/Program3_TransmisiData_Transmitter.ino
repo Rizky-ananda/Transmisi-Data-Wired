@@ -23,7 +23,7 @@
 
   Baudrate : 9600 bps
   Author   : Rizky Ananda S
-  Date     : 20 Oktober 2025
+  Date     : 20 Oktober 2024
   Version  : 2.0 (Last Update 4 November 2025)
   ============================================================
 */
