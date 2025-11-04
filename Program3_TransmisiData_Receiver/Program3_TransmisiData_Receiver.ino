@@ -18,7 +18,7 @@
       RO    ->  RX_PIN (GPIO16)
       DI    ->  TX_PIN (GPIO17)
       DE,RE ->  DRE_PIN (GPIO4)
-      VCC   ->  3.3V
+      VCC   ->  5V
       GND   ->  GND
 
     OLED    ->  ESP32
